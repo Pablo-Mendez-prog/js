@@ -63,3 +63,4 @@ iniciarCompra();
 
 
 
+no me anda git
